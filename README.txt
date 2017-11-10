@@ -30,8 +30,7 @@ Replace jokers
 Skip and Auto-Select
 Stop the crimespree loss on crash
 StopTheCheater
-TranslucentMissionBriefingGUI
+Basic Voices
 UppersFAKContours
 Viewmodel Tweak
 WolfHUD
-Basic Voices
