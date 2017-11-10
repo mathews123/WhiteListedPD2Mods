@@ -34,3 +34,4 @@ TranslucentMissionBriefingGUI
 UppersFAKContours
 Viewmodel Tweak
 WolfHUD
+Basic Voices
