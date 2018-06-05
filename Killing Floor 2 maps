@@ -1,0 +1,511 @@
+
+PCServer-KFEngine.ini
+
+[OnlineSubsystemSteamworks.KFWorkshopSteamworks]
+ServerSubscribedWorkshopItems=675314991  // Maxplayers Mutator
+ServerSubscribedWorkshopItems=1132884083 // Classic Scoreboard
+ServerSubscribedWorkshopItems=670421536  // Deck 17
+ServerSubscribedWorkshopItems=902676703  // Dystopia 2029
+ServerSubscribedWorkshopItems=785275912  // Chillwind Plateau
+ServerSubscribedWorkshopItems=860731788  // KF-Crazy_Playboy_Edited
+ServerSubscribedWorkshopItems=642499843  // KF-NewArcadeShopping
+ServerSubscribedWorkshopItems=741487928  // KF-Horzine-MilitaryBase
+ServerSubscribedWorkshopItems=645048540  // KF-The_Lions_Head
+ServerSubscribedWorkshopItems=816151246  // KF-XmasPark
+ServerSubscribedWorkshopItems=1180862859 // Verticality Night Version
+ServerSubscribedWorkshopItems=893075277  // KF-China_Temple_normal
+ServerSubscribedWorkshopItems=764145987  // KF-BeforeDawn
+ServerSubscribedWorkshopItems=1272479746 // KF-Outbreak
+ServerSubscribedWorkshopItems=1262574991 // KF-Warcraft_Small_Arena
+ServerSubscribedWorkshopItems=642652221  // Maw of Madness
+ServerSubscribedWorkshopItems=1262586243 // KF-FIN day3
+ServerSubscribedWorkshopItems=1210703659 // KF-Killing Pool
+ServerSubscribedWorkshopItems=1150705478 // KF-Edge Of Reality
+ServerSubscribedWorkshopItems=798981324  // KF-Big Green
+ServerSubscribedWorkshopItems=1208883070 // KF-Corridor
+ServerSubscribedWorkshopItems=964100068  // KF-Verticality
+ServerSubscribedWorkshopItems=643383080  // KF-BikiniAtoll
+ServerSubscribedWorkshopItems=1102122008 // KF-Zed's Diner
+ServerSubscribedWorkshopItems=1261082953 // KF-MayanArena
+ServerSubscribedWorkshopItems=644237993  // KF-Mountain Arena
+ServerSubscribedWorkshopItems=674148429  // KF-Museum
+ServerSubscribedWorkshopItems=785576438  // KF-Aphrodite
+ServerSubscribedWorkshopItems=820046643  // KF-Offices
+ServerSubscribedWorkshopItems=1130264785 // KF-DeepingWall
+ServerSubscribedWorkshopItems=851455817  // KF-Biohazard
+ServerSubscribedWorkshopItems=950682483  // KF-PEREHRESTYA
+ServerSubscribedWorkshopItems=738349496  // KF-Zombotron
+ServerSubscribedWorkshopItems=810350239  // KF-Cliffside
+ServerSubscribedWorkshopItems=880812173  // KF-VolterCastle
+ServerSubscribedWorkshopItems=652058206  // KF-DeathSentence
+ServerSubscribedWorkshopItems=643292527  // KF-ZedHarvest
+ServerSubscribedWorkshopItems=642437554  // KF-OilRigSubstation
+ServerSubscribedWorkshopItems=818212145  // KF-Transient
+ServerSubscribedWorkshopItems=643364848  // KF-PollutionFactory
+ServerSubscribedWorkshopItems=889441862  // KF-Homestead
+ServerSubscribedWorkshopItems=733191110  // KF1 West London
+ServerSubscribedWorkshopItems=646131633  // KF-GreenStreet
+ServerSubscribedWorkshopItems=767211397  // KF-Beach_Invasion
+ServerSubscribedWorkshopItems=1097832055 // KF1-Farm
+ServerSubscribedWorkshopItems=644230614  // Tainted Grove
+ServerSubscribedWorkshopItems=947198353  // KF-Montainus
+ServerSubscribedWorkshopItems=859997535  // KF-CarillonHamlet
+ServerSubscribedWorkshopItems=1282178753 // KF-DepthOfDespair
+ServerSubscribedWorkshopItems=1235205644 // KF-YuletideTown
+ServerSubscribedWorkshopItems=1189032811 // KF-Bunkerlab1
+ServerSubscribedWorkshopItems=1246143804 // KF-PacMan
+ServerSubscribedWorkshopItems=1238009510 // KF-IceArenaV2
+ServerSubscribedWorkshopItems=911887560  // Home-s-Dock
+ServerSubscribedWorkshopItems=1180305080 // crystalcaverns_new
+ServerSubscribedWorkshopItems=1164766068 // KF-AncientArena
+ServerSubscribedWorkshopItems=784194047  // KF-TheFacility-V1f
+ServerSubscribedWorkshopItems=897016301  // KF-Roam
+ServerSubscribedWorkshopItems=813943276  // KF-CanterlotHighV2
+ServerSubscribedWorkshopItems=1114962827 // KF-Desolate
+ServerSubscribedWorkshopItems=897570568  // KF-PureRock
+ServerSubscribedWorkshopItems=642348804  // KF-Parking_Garage
+ServerSubscribedWorkshopItems=683932626  // KF-Mira's Library
+ServerSubscribedWorkshopItems=863095088  // KF-MoonRaker
+ServerSubscribedWorkshopItems=714230976  // KF-BalconyDefense
+ServerSubscribedWorkshopItems=814215136  // KF-Hell_Cant_Wait2
+ServerSubscribedWorkshopItems=1115862210 // KF-CytologyLab
+ServerSubscribedWorkshopItems=644068210  // KF-ShoppingSpree
+ServerSubscribedWorkshopItems=849255587  // KF-Monochrome
+ServerSubscribedWorkshopItems=1292772275 // KF-LyonDen
+ServerSubscribedWorkshopItems=1293592961 // KF-HillSide-Enhanced
+ServerSubscribedWorkshopItems=855832583  // KF-Mini_Green
+ServerSubscribedWorkshopItems=664132838  // KF-ClassicBioticslab
+ServerSubscribedWorkshopItems=1215467327 // KF-ClubConfession
+ServerSubscribedWorkshopItems=652062696  // KF-Deadline
+ServerSubscribedWorkshopItems=803853379  // KF-RedHoodDinner
+ServerSubscribedWorkshopItems=709003594  // KF-C28
+ServerSubscribedWorkshopItems=1285074158 // KF-Arid_Zedlands
+ServerSubscribedWorkshopItems=1260231732 // KF-Molly_IRL
+ServerSubscribedWorkshopItems=1270915484 // KF-Outpost86
+ServerSubscribedWorkshopItems=1294183475 // KF-Oc_lobby
+ServerSubscribedWorkshopItems=1191485768 // KF-Stalingrad
+ServerSubscribedWorkshopItems=972505823  // KF-6Pointer
+ServerSubscribedWorkshopItems=891319214  // KF-China_Temple_Insane_Edit        ( Esse mapa tira o ranked do server  )
+ServerSubscribedWorkshopItems=894801657  // KF-KF1-LilBigClot-Kitchen
+ServerSubscribedWorkshopItems=682290186  // KF-KF1_Manor
+ServerSubscribedWorkshopItems=857015700  // KF-MountainPass_zfix
+ServerSubscribedWorkshopItems=863978357  // KF-CanvilleRM
+ServerSubscribedWorkshopItems=840754106  // KF-Mario_64_Remastered
+ServerSubscribedWorkshopItems=817005219  // KF-Mario_Room
+ServerSubscribedWorkshopItems=1187216180 // Infernal Nightmare Difficulty  //  ( Dificuldade maior , tira o ranked do server )
+ServerSubscribedWorkshopItems=650252240  // KF-DooM_2_MAP01
+ServerSubscribedWorkshopItems=742688453  // KF-Centered
+ServerSubscribedWorkshopItems=838775511  // KF-HorzineArenaRMEdition
+ServerSubscribedWorkshopItems=883662363  // KF-SpiralSlaughter
+ServerSubscribedWorkshopItems=904557127  // KF-Metro-Chase
+ServerSubscribedWorkshopItems=1293746221 // KF-Zedoland
+ServerSubscribedWorkshopItems=1091117441 // KF-KF1-DefenceB2
+ServerSubscribedWorkshopItems=953518450  // KF-Hellside
+ServerSubscribedWorkshopItems=694081319  // KF-Dead_In_Limbo
+ServerSubscribedWorkshopItems=1315230166 // KF-SkadiHillside
+ServerSubscribedWorkshopItems=761183700  // KF-PyramidDefense
+ServerSubscribedWorkshopItems=1323581488 // KF-Nightclub
+ServerSubscribedWorkshopItems=738484519  // Controlled Difficulty        ( Tira o Ranked do Server )
+
+
+PCServer-KFGame.ini
+
+[KF-Deck17_V1 KFMapSummary]
+MapName=KF-Deck17_V1
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Dystopia2029 KFMapSummary]
+MapName=KF-Dystopia2029
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-ChillwindPlateau KFMapSummary]
+MapName=KF-ChillwindPlateau
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Crazy_Playboy_Edited KFMapSummary]
+MapName=KF-Crazy_Playboy_Edited
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-NewArcadeShopping KFMapSummary]
+MapName=KF-NewArcadeShopping
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Horzine-MilitaryBase KFMapSummary]
+MapName=KF-Horzine-MilitaryBase
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-The_Lions_Head KFMapSummary]
+MapName=KF-The_Lions_Head
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-XmasPark KFMapSummary]
+MapName=KF-XmasPark
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Verticality_Night KFMapSummary]
+MapName=KF-Verticality_Night
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-China_Temple_normal KFMapSummary]
+MapName=KF-China_Temple_normal
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-BeforeDawn KFMapSummary]
+MapName=KF-BeforeDawn
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Warcraft_Small_Arena KFMapSummary]
+MapName=KF-Warcraft_Small_Arena
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Outbreak KFMapSummary]
+MapName=KF-Outbreak
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-MawOfMadness_v2 KFMapSummary]
+MapName=KF-MawOfMadness_v2
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Defence_Thyself_Day_Fin3 KFMapSummary]
+MapName=KF-Defence_Thyself_Day_Fin3
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-KillingPool KFMapSummary]
+MapName=KF-KillingPool
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Edge_Of_Reality KFMapSummary]
+MapName=KF-Edge_Of_Reality
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Big_Green KFMapSummary]
+MapName=KF-Big_Green
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Corridor KFMapSummary]
+MapName=KF-Corridor
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Verticality KFMapSummary]
+MapName=KF-Verticality
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-BikiniAtoll KFMapSummary]
+MapName=KF-BikiniAtoll
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-ZedsDiner KFMapSummary]
+MapName=KF-ZedsDiner
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-MayanArena KFMapSummary]
+MapName=KF-MayanArena
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-MountainArena KFMapSummary]
+MapName=KF-MountainArena
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Museum KFMapSummary]
+MapName=KF-Museum
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Aphrodite KFMapSummary]
+MapName=KF-Aphrodite
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Offices KFMapSummary]
+MapName=KF-Offices
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-DeepingWall KFMapSummary]
+MapName=KF-DeepingWall
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Biohazard KFMapSummary]
+MapName=KF-Biohazard
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-PEREHRESTYA KFMapSummary]
+MapName=KF-PEREHRESTYA
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Zombotron KFMapSummary]
+MapName=KF-Zombotron
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Cliffside KFMapSummary]
+MapName=KF-Cliffside
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-VolterCastle KFMapSummary]
+MapName=KF-VolterCastle
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-DeathSentenceFinal KFMapSummary]
+MapName=KF-DeathSentenceFinal
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-ZedHarvest KFMapSummary]
+MapName=KF-ZedHarvest
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-OilRigSubstation-v2 KFMapSummary]
+MapName=KF-OilRigSubstation-v2
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Transient KFMapSummary]
+MapName=KF-Transient
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-PollutionFactory KFMapSummary]
+MapName=KF-PollutionFactory
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Homestead KFMapSummary]
+MapName=KF-Homestead
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-KF1_West_London KFMapSummary]
+MapName=KF-KF1_West_London
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-GreenStreet KFMapSummary]
+MapName=KF-GreenStreet
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Beach_Invasion KFMapSummary]
+MapName=KF-Beach_Invasion
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-KF1_Farm KFMapSummary]
+MapName=KF-KF1_Farm
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-TaintedGrove KFMapSummary]
+MapName=TaintedGrove
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Montainus KFMapSummary]
+MapName=KF-Montainus
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-CarillonHamletB1 KFMapSummary]
+MapName=KF-CarillonHamletB1
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-DepthOfDespair KFMapSummary]
+MapName=KF-DepthOfDespair
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-YuletideTown KFMapSummary]
+MapName=KF-YuletideTown
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Bunkerlab1 KFMapSummary]
+MapName=KF-Bunkerlab1
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-PacMan KFMapSummary]
+MapName=KF-PacMan
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-IceArenaV2 KFMapSummary]
+MapName=KF-IceArenaV2
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Home-s-Dock KFMapSummary]
+MapName=KF-Home-s-Dock
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-crystalcaverns_new KFMapSummary]
+MapName=KF-crystalcaverns_new
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-AncientArena KFMapSummary]
+MapName=KF-AncientArena
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-TheFacility-V1f KFMapSummary]
+MapName=KF-TheFacility-V1f
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Roam KFMapSummary]
+MapName=KF-Roam
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-CanterlotHighV2 KFMapSummary]
+MapName=KF-CanterlotHighV2
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Desolate KFMapSummary]
+MapName=KF-Desolate
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-PureRock KFMapSummary]
+MapName=KF-PureRock
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Parking_Garage KFMapSummary]
+MapName=KF-Parking_Garage
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Mira's_Library KFMapSummary]
+MapName=KF-Mira's_Library
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-MoonRaker KFMapSummary]
+MapName=KF-MoonRaker
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-BalconyDefense KFMapSummary]
+MapName=KF-BalconyDefense
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Hell_Cant_Wait2 KFMapSummary]
+MapName=KF-Hell_Cant_Wait2
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-CytologyLab KFMapSummary]
+MapName=KF-CytologyLab
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-ShoppingSpree KFMapSummary]
+MapName=KF-ShoppingSpree
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Monochrome KFMapSummary]
+MapName=KF-Monochrome
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-LyonDen KFMapSummary]
+MapName=KF-LyonDen
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-HillSide-Enhanced KFMapSummary]
+MapName=KF-HillSide-Enhanced
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Mini_Green KFMapSummary]
+MapName=KF-Mini_Green
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-ClassicBioticslab KFMapSummary]
+MapName=KF-ClassicBioticslab
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-ClubConfession KFMapSummary]
+MapName=KF-ClubConfession
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Deadline KFMapSummary]
+MapName=KF-Deadline
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-RedHoodDinner KFMapSummary]
+MapName=KF-RedHoodDinner
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-C28 KFMapSummary]
+MapName=KF-C28
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Arid_Zedlands KFMapSummary]
+MapName=KF-Arid_Zedlands
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Molly_IRL KFMapSummary]
+MapName=KF-Molly_IRL
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Outpost86 KFMapSummary]
+MapName=KF-Outpost86
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Oc_lobby KFMapSummary]
+MapName=KF-Oc_lobby
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Stalingrad KFMapSummary]
+MapName=KF-Stalingrad
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-6Pointer KFMapSummary]
+MapName=KF-6Pointer
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-China_Temple_Insane_Edit KFMapSummary]
+MapName=KF-China_Temple_Insane_Edit
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-KF1-LilBigClot-Kitchen KFMapSummary]
+MapName=KF-KF1-LilBigClot-Kitchen
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-KF1_Manor KFMapSummary]
+MapName=KF-KF1_Manor
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-MountainPass_zfix KFMapSummary]
+MapName=KF-MountainPass_zfix
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-CanvilleRM KFMapSummary]
+MapName=KF-CanvilleRM
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Mario_64_Remastered KFMapSummary]
+MapName=KF-Mario_64_Remastered
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Mario_Room KFMapSummary]
+MapName=KF-Mario_Room
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-DooM_2_MAP01 KFMapSummary]
+MapName=KF-DooM_2_MAP01
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Centered KFMapSummary]
+MapName=KF-Centered
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-HorzineArenaRMEdition KFMapSummary]
+MapName=KF-HorzineArenaRMEdition
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Metro-Chase KFMapSummary]
+MapName=KF-Metro-Chase
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-SpiralSlaughter KFMapSummary]
+MapName=KF-SpiralSlaughter
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Zedoland KFMapSummary]
+MapName=KF-Zedoland
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-KF1-DefenceB2 KFMapSummary]
+MapName=KF-KF1-DefenceB2
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Hellside KFMapSummary]
+MapName=KF-Hellside
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Dead_In_Limbo KFMapSummary]
+MapName=KF-Dead_In_Limbo
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-SkadiHillside KFMapSummary]
+MapName=KF-SkadiHillside
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-PyramidDefense KFMapSummary]
+MapName=KF-PyramidDefense
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
+
+[KF-Nightclub KFMapSummary]
+MapName=KF-Nightclub
+ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder
